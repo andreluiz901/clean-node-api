@@ -29,7 +29,7 @@ const config = {
   transform: {
     '.+\\.ts$': 'ts-jest'
   },
-  roots: ['<rootDir/src'],
+  roots: ['./src'],
 
   // An array of regexp pattern strings used to skip coverage collection
   // coveragePathIgnorePatterns: [
