@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1701817222039" clover="3.2.0">
-  <project timestamp="1701817222040" name="All files">
-    <metrics statements="117" coveredstatements="78" conditionals="24" coveredconditionals="17" methods="15" coveredmethods="8" elements="156" coveredelements="103" complexity="0" loc="117" ncloc="117" packages="6" files="13" classes="13"/>
+<coverage generated="1701818350988" clover="3.2.0">
+  <project timestamp="1701818350988" name="All files">
+    <metrics statements="124" coveredstatements="85" conditionals="25" coveredconditionals="18" methods="16" coveredmethods="9" elements="165" coveredelements="112" complexity="0" loc="124" ncloc="124" packages="7" files="14" classes="14"/>
     <package name="domain.models">
       <metrics statements="6" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <file name="account.ts" path="C:\Users\silva\Dropbox\My PC (Andre)\Desktop\survey-node-study\src\domain\models\account.ts">
@@ -174,6 +174,19 @@
         <metrics statements="2" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="0" type="cond" truecount="0" falsecount="1"/>
         <line num="2" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="email-validator.ts" path="C:\Users\silva\Dropbox\My PC (Andre)\Desktop\survey-node-study\src\utils\email-validator.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
   </project>
